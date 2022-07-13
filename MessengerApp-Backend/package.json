@@ -1,0 +1,29 @@
+{
+  "name": "messengerproject",
+  "version": "1.0.0",
+  "description": "Real Time Messenger App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arkash Vijayakumar",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "fs-extra": "^10.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.3",
+    "nodemailer": "^6.7.2",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "redis": "^4.0.4",
+    "sequelize": "^6.17.0",
+    "socket.io": "^4.5.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
