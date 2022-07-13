@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nodemessengerapp-dev-200514-authRole",
+      "UnauthRoleArn": "arn:aws:iam::630130807693:role/amplify-nodemessengerapp-dev-200514-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::630130807693:role/amplify-nodemessengerapp-dev-200514-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-nodemessengerapp-dev-200514-deployment",
+      "UnauthRoleName": "amplify-nodemessengerapp-dev-200514-unauthRole",
+      "StackName": "amplify-nodemessengerapp-dev-200514",
+      "StackId": "arn:aws:cloudformation:eu-west-2:630130807693:stack/amplify-nodemessengerapp-dev-200514/fb56ff31-c1a5-11ec-aac0-0a2c12dcabb8",
+      "AmplifyAppId": "d3ql3gwuuuhkpc"
+    },
+    "categories": {
+      "auth": {
+        "nodemessengerappc49f1ae3": {},
+        "true": {}
+      }
+    }
+  }
+}
